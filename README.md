@@ -13,9 +13,9 @@
 
 <br>
 
-- 👨‍💻 Actualmente trabajando en tecnologías de desarrollo web como JavaScript, React, etc.
-- 📚 Aprendiendo constantemente sobre tecnologías Frontend y Backend
-- 🎯 Metas futuras: Aprender más tecnologías - Nunca dejar de crear nuevas ideas
+- 👨‍💻 Actualmente estudiando en tecnologías de desarrollo web como JavaScript, React, etc.
+- 📚 Aprendiendo constantemente sobre tecnologías. 
+- 🎯 Metas futuras: Aprender más tecnologías.
 - 🎵 Me encanta la música y siempre estoy escuchando algo mientras programo
 
 <br><br>
